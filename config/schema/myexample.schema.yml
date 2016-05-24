@@ -1,0 +1,16 @@
+myexample.myexample.*:
+  type: config_entity
+  label: 'MyExample config'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
+    goodword:
+      type: string
+      label: 'Good Word'
+    badword:
+      type: string
+      label: 'Bad Word'
