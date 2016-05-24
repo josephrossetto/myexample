@@ -1,2 +1,2 @@
 # myexample
-Test Drupal 8 module
+Drupal 8 module to replace bad with good words.
